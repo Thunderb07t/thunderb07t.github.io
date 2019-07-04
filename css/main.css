@@ -312,13 +312,13 @@ pre {
     .button--accent-outline .button__system_icon svg * {
       fill: #4D61FC; }
   .button--accent-bg {
-    background-color: #4D61FC;
+    background-color: transparent;
     color: white; }
     .button--accent-bg .icon svg *,
     .button--accent-bg .button__system_icon svg * {
       fill: white; }
     .button--accent-bg:hover {
-      background-color: #344bfc; }
+      background-color: transparent; }
   .button--black-outline {
     background-color: transparent;
     border-color: #303030;
